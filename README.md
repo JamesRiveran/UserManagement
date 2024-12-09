@@ -1,6 +1,6 @@
 <div align="center">
 
-# Project: Work Hours Management System
+# Work Hours Management System
 
 ### Developer
 
